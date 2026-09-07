@@ -9,7 +9,9 @@
     <Project Path="invoking namespaces/invoking namespaces.csproj" Id="0f9923fa-db61-4777-9d42-f267ffdfd5c1" />
     <Project Path="tubles/tubles.csproj" Id="ed13c440-6f20-4239-9c32-367942192eec" />
   </Folder>
-  <Folder Name="/Linq/" />
+  <Folder Name="/Linq/">
+    <Project Path="ConsoleApp8/ConsoleApp8.csproj" Id="9fb73202-07b4-495b-a56d-e5c68e319b99" />
+  </Folder>
   <Folder Name="/OOP/">
     <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="39c583c8-3f13-4b69-8067-583a8e980382" />
     <Project Path="ConsoleApp5/ConsoleApp5.csproj" Id="65dce4f8-51c4-40ec-9b29-2b8fde4657eb" />
