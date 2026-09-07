@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Advanced C#/">
+    <Project Path="ConsoleApp6/ConsoleApp6.csproj" Id="b987020d-cc18-4ffe-8434-3ff408669c4a" />
+  </Folder>
+  <Folder Name="/C# Basics/">
+    <Project Path="branches-loops/branches-loops.csproj" Id="95c70f7e-3978-4e49-9baf-a189b4084c40" />
+    <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+    <Project Path="ConsoleApp3/ConsoleApp3.csproj" Id="6aeecc77-c672-469d-ad84-02283b1bfe49" />
+    <Project Path="invoking namespaces/invoking namespaces.csproj" Id="0f9923fa-db61-4777-9d42-f267ffdfd5c1" />
+    <Project Path="tubles/tubles.csproj" Id="ed13c440-6f20-4239-9c32-367942192eec" />
+  </Folder>
+  <Folder Name="/Linq/" />
+  <Folder Name="/OOP/">
+    <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="39c583c8-3f13-4b69-8067-583a8e980382" />
+    <Project Path="ConsoleApp5/ConsoleApp5.csproj" Id="65dce4f8-51c4-40ec-9b29-2b8fde4657eb" />
+    <Project Path="ReservationHotelSystem/ReservationHotelSystem.csproj" Id="3e9a0bc7-56c2-451f-9f7b-325f9a7785ed" />
+  </Folder>
+</Solution>
